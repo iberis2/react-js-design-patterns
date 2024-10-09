@@ -1,4 +1,4 @@
-# Compound 패턴
+# [Compound 패턴](https://velog.io/@iberis/Compound-패턴)
 > 컴파운드 컴포넌트 패턴은 여러 컴포넌트들이 모여 하나의 동작을 할 수 있게 해 준다. 
 
 내가 컴파운드 패턴을 처음 알게 된 것은 [Radix 의 Dialog](https://www.radix-ui.com/themes/docs/components/dialog) 컴포넌트에서 였다.
