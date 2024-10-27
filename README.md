@@ -11,7 +11,7 @@
 | 이름 | 참여 회수 | 참여: 🏆 |
 |---|---|---|
 | 김재정 | 1/6 | 🏆 | 
-| 박설화 | 1/6 | 🏆 | 
+| 박설화 | 3/6 | 🏆🏆🏆 | 
 
 <br />
 
@@ -24,8 +24,8 @@
 | 회차 | 날짜 | 기록 | 참여자 |
 |------|------|------|------|
 | 1 | 24-10-14(MON) 12:00 | [1주차 : Container/Presentation, Compound 패턴](https://github.com/iberis2/react-js-design-patterns/tree/main/1%EC%A3%BC%EC%B0%A8) | 재정, 설화|
-| 2 | 24-10-21(MON) 12:00 | [링크]() | (예정) |
-| 3 | 24-10-28(MON) 12:00 | [링크]() | (예정) |
+| 2 | 24-10-21(MON) 12:00 | [2주차: HOC 패턴, Render Props 패턴](https://github.com/iberis2/react-js-design-patterns/tree/main/2%EC%A3%BC%EC%B0%A8) | (설화) |
+| 3 | 24-10-28(MON) 12:00 | [3주차: Observer 패턴, React Hooks](https://github.com/iberis2/react-js-design-patterns/tree/main/3%EC%A3%BC%EC%B0%A8) | (설화) |
 | 4 | 24-11-04(MON) 12:00 | [링크]() | (예정) |
 | 5 | 24-11-11(MON) 12:00 | [링크]() | (예정) |
 | 6 | 24-11-18(MON) 12:00 | [링크]() | (예정) |
